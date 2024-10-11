@@ -1,0 +1,29 @@
+.title h1 {
+    font-size: 40px;
+    color: var(--primary-color);
+}
+
+.subtitle h2 {
+    font-size: 20px;
+    color: var(--primary-color);
+}
+
+.text-container {
+    margin-top: 21px;
+}
+
+/* for mobile screens, title: 30px and subtitle: 16px */
+
+@media only screen and (max-width: 600px) {
+    .title h1 {
+        font-size: 30px;
+    }
+
+    .subtitle h2 {
+        font-size: 16px;
+    }
+
+    .text-container {
+        margin-top: 13px;
+    }
+}

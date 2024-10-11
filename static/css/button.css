@@ -1,0 +1,38 @@
+
+.custom-button {
+    margin-top: 40px;
+    width: 100%;
+}
+
+.custom-button button {
+    background-color: var(--highlight-color);
+    color: var(--secondary-color);
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    transition: .1s;
+    cursor: pointer;
+
+}
+
+.custom-button button i {
+    vertical-align: middle;
+
+    font-size: 20px;
+}
+
+.custom-button button .button-text {
+    font-size: 16px;
+}
+
+
+.custom-button button:hover {
+    background-color: var(--highlight-color-hover);
+    transition: 0.1s;
+}
+
+.custom-button button:active {
+    background-color: var(--active-color);
+    transition: 0.1s;
+}

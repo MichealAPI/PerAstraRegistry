@@ -1,0 +1,10 @@
+.forgot p a {
+    color: var(--highlight-color);
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.forgot p a:hover {
+    color: var(--highlight-color-hover);
+    transition: 0.3s;
+}

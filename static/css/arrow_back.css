@@ -1,0 +1,21 @@
+.back-button button {
+    background-image: none;
+    background-color: transparent;
+    border: none;
+}
+
+.back-button button .back-icon i {
+    color: var(--light-gray);
+    transition: 0.2s;
+}
+
+.back-button button:hover .back-icon i {
+    opacity: 0.6;
+    transition: 0.2s;
+}
+
+.back-button button .back-link {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.2s;
+}
