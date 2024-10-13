@@ -4,8 +4,19 @@
     border: none;
 }
 
+.back-button button {
+    padding: 0;
+    transition: 0.2s;
+}
+
 .back-button button .back-icon i {
     color: var(--light-gray);
+    transition: 0.2s;
+}
+
+.back-button button:hover {
+    transform: translateY(-3px);
+    scale: 1.05;
     transition: 0.2s;
 }
 

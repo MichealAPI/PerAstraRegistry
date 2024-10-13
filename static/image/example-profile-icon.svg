@@ -1,0 +1,11 @@
+<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="myGradient" gradientTransform="rotate(90)">
+    <stop offset="10%" stop-color="#229CFF" />
+    <stop offset="95%" stop-color="#145D99" />
+    </linearGradient>
+  </defs>
+
+  <circle r="45" cx="50" cy="50" fill="url('#myGradient')" />
+</svg>
