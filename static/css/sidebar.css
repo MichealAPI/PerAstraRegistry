@@ -1,0 +1,45 @@
+.sidebar-icon img {
+    width: 60px;
+    height: 60px;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+.sidebar-list ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.sidebar-element a i {
+    color: var(--secondary-color);
+    transition: 0.2s;
+}
+
+.sidebar-element:hover a i {
+    color: var(--light-gray);
+    transition: 0.2s;
+}
+
+.sidebar-element {
+    transition: 0.2s;
+}
+
+.sidebar-element:hover {
+    transform: translateY(-2px);
+    transition: 0.2s;
+}
+
+.sidebar-element {
+    min-height: 60px;
+    margin-bottom: 5px;
+}
+
+.sidebar-profile-icon {
+    width: 60px;
+    height: 60px;
+    background-image: url('/static/image/example-profile-icon.svg');
+    background-size: cover;
+}

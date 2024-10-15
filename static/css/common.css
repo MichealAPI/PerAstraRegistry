@@ -42,8 +42,7 @@
     scrollbar-highlight-color: var(--highlight-color);
 }
 
-
-.page-change {
-    opacity: 0.5;
-    transition: 0.3s;
+.rotate-90 {
+    transform: rotate(90deg);
+    transition: 0.2s;
 }

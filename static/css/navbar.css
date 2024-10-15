@@ -1,0 +1,26 @@
+.bg-navbar {
+    background-image: radial-gradient(circle, #303158, #1d1f2b, #1c1c1c);
+}
+
+.navbar-profile-icon {
+    width: 40px;
+    height: 40px;
+    background-image: url('../image/example-profile-icon.svg');
+    background-size: cover;
+}
+
+.sidebar-profile-icon, .navbar-profile-icon h3 {
+    color: var(--secondary-color);
+}
+
+.custom-navbar-toggler {
+    border: none;
+    background: none;
+    color: var(--secondary-color);
+    transition: 0.2s;
+}
+
+.custom-navbar-toggler:hover {
+    opacity: 0.8;
+    transition: 0.2s;
+}
