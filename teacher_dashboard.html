@@ -55,9 +55,9 @@
     </div>
 
     <!-- Main content -->
-    <div class="container-fluid overflow-hidden p-0 vh-100">
+    <div class="container-fluid overflow-hidden p-0 vh-100 secondary-background">
 
-        <div class="row vh-100">
+        <div class="row">
 
             <!-- Sidebar, works only for devices >sm -->
             <div class="col-sm-auto pe-0">
@@ -98,15 +98,68 @@
                             <h3>A</h3>
                         </div>
                     </div>
+
                 </div>
             </div>
 
             <!-- Header -->
-            <div class="col ps-sm-0 d-none d-md-block">
-                <div class="topbar">
+            <div class="col ps-sm-0">
+                <div class="topbar d-none d-md-flex align-items-center">
                     <div class="topbar-title">
-                        <h2>Teacher's Dashboard</h2>
+                        <h2 class="inter-bold">Teacher's Dashboard</h2>
                     </div>
+                </div>
+
+                <div class="grid">
+
+                    <div class="grid-margin-top container-fluid">
+
+                        <div class="row small-size">
+
+                            <div class="offset-md-1 col-md-10 rouded-template-background d-flex align-items-center">
+                                
+                                <div class="container">
+
+                                    <div class="row">
+
+                                        <div class="col-auto d-flex align-items-center justify-content-center">
+
+                                            <!-- Back Button -->
+                                            <div class="back-button">
+                                                <button>
+                                                    <div class="dark-back-icon big-icon">
+                                                        <a href="login.html" class="back-link">
+                                                            <i class="bi bi-arrow-left-short fw-2 fs-1"></i>
+                                                        </a>
+                                                    </div>
+                                                </button>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="offset-md-1 col-9 d-flex text-center justify-content-center align-items-center">
+                                            
+                                            <div class="report">
+                                                <div class="report-">
+                                                    <h1 class="inter-bold fs-2">
+                                                        Report for <b>${studentName}</b>
+                                                    </h2>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
         </div>

@@ -2,3 +2,19 @@
 body {
     background-color: var(--secondary-color);
 }
+
+.secondary-background {
+    background-color: var(--secondary-color);
+}
+
+.rouded-template-background {
+    background-color: var(--box-color);
+    border-radius: 20px;
+}
+
+@media (max-width: 768px) {
+    .rouded-template-background {
+        border-radius: 0;
+        background: transparent;
+    }
+}
