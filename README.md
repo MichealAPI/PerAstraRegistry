@@ -1,14 +1,14 @@
 
-![Desktop Grade Report](/graphics/desktop-grade-report.png)
+![Desktop Grade Report](https://github.com/MichealAPI/PerAstraRegistry/blob/master/graphics/desktop-grade-report.png?raw=true)
 
-![Desktop Teacher Dashboard](/graphics/desktop-teacher-dashboard.png)
+![Desktop Teacher Dashboard](https://github.com/MichealAPI/PerAstraRegistry/blob/master/graphics/desktop-teacher-dashboard.png?raw=true)
 
-![Desktop Login](/graphics/desktop-login.png)
+![Desktop Login](https://github.com/MichealAPI/PerAstraRegistry/blob/master/graphics/desktop-login.png?raw=true)
 
-![Desktop Password Reset](/graphics/desktop-password-reset.png)
+![Desktop Password Reset](https://github.com/MichealAPI/PerAstraRegistry/blob/master/graphics/desktop-password-reset.png?raw=true)
 
-![Mobile Grade Report](/graphics/mobile-grade-report.png)
+![Mobile Grade Report](https://github.com/MichealAPI/PerAstraRegistry/blob/master/graphics/mobile-grade-report.png?raw=true)
 
-![Mobile Password Reset](/graphics/mobile-password-reset.png)
+![Mobile Password Reset](https://github.com/MichealAPI/PerAstraRegistry/blob/master/graphics/mobile-password-reset.png?raw=true)
 
-![Mobile Teacher Dashboard](/graphics/mobile-teacher-dashboard.png)
+![Mobile Teacher Dashboard](https://github.com/MichealAPI/PerAstraRegistry/blob/master/graphics/mobile-teacher-dashboard.png?raw=true)
