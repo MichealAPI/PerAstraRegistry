@@ -7,13 +7,13 @@ body {
     background-color: var(--secondary-color);
 }
 
-.rouded-template-background {
+.rounded-template-background {
     background-color: var(--box-color);
     border-radius: 20px;
 }
 
 @media (max-width: 768px) {
-    .rouded-template-background {
+    .rounded-template-background {
         border-radius: 0;
         background: transparent;
     }
